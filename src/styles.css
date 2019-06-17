@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input[name="url"] {
+  width: 30rem;
+}
+
+input[name="title"] {
+  width: 25rem;
+}
+
+input[type="submit"] {
+  width: 5rem;
+}
+
+.picture {
+  width: 30rem;
+  background: white;
+  margin: auto;
+}
+
+img {
+  width: 28rem;
+  margin-bottom: 1rem;
+}
